@@ -8,26 +8,26 @@ const DATA = [
   },
   {
     letter: "A",
-    word: "autismo",
-    image: "images/Autismo.png",
+    word: "Autismo",
+    image: "images/autismo.png",
     fact: "Un dato curioso es que se cree que personas notables como Albert Einstein, Wolfgang Amadeus Mozart y Charles Darwin poseían rasgos asociados con el autismo, lo que resalta cómo esta condición puede coexistir con talentos excepcionales. Además, el autismo es un trastorno de espectro, lo que significa que cada persona con autismo tiene un conjunto único de habilidades y desafíos, presentando la condición de manera diferente en cada individuo. "
   },
   {
     letter: "C",
-    word: "caballero",
-    image: "images/Caballero.png",
+    word: "Caballero",
+    image: "images/caballero.png",
     fact: "Un dato curioso es que, para el acto formal de convertirse en caballero, el aspirante realizaba un ayuno de un día y se le sometía a una noche de vigilia sobre sus armas. Por la mañana, recibía la espada y espuelas, culminando con el espaldarazo, un golpe en el cuello, que simbolizaba el ascenso a ese rango."
   },
   {
     letter: "O",
-    word: "osiris",
-    image: "images/Osiris.png",
+    word: "Osiris",
+    image: "images/csiris.png",
     fact: "Osiris es una deidad del Antiguo Egipto, venerado como el dios de la fertilidad, la agricultura, la resurrección y el inframundo. Su mito central narra su asesinato y desmembramiento por parte de su hermano Seth, y su posterior resurrección gracias a los poderes mágicos de su esposa, Isis. Tras ser resucitado, se convierte en el juez de los muertos y en el símbolo de la renovación cíclica de la naturaleza y de la esperanza en una vida después de la muerte. "
   },
   {
     letter: "V",
-    word: "valhalla",
-    image: "images/Valhalla.png",
+    word: "Valhalla",
+    image: "images/valhalla.png",
     fact: "El Valhalla era un vasto salón de banquetes. Tenía al menos 540 puertas y un techo de escudos. El poderoso dios nórdico Odín gobernaba el Valhalla. Solo permitía el acceso a los guerreros que habían muerto con valentía."
   }
 ];
