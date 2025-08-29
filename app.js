@@ -21,7 +21,7 @@ const DATA = [
   {
     letter: "O",
     word: "Osiris",
-    image: "images/csiris.png",
+    image: "images/osiris.png",
     fact: "Osiris es una deidad del Antiguo Egipto, venerado como el dios de la fertilidad, la agricultura, la resurrección y el inframundo. Su mito central narra su asesinato y desmembramiento por parte de su hermano Seth, y su posterior resurrección gracias a los poderes mágicos de su esposa, Isis. Tras ser resucitado, se convierte en el juez de los muertos y en el símbolo de la renovación cíclica de la naturaleza y de la esperanza en una vida después de la muerte. "
   },
   {
